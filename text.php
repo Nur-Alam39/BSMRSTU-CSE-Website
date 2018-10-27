@@ -4,7 +4,7 @@
 			<div class="card-header" id="headingOne1">
 			  <h5 class="mb-0">
 				<button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne1">
-				  Date
+				  Date and time
 				</button>
 			  </h5>
 			</div>
