@@ -4,11 +4,11 @@
  
 **Contents:** 1. Introduction  2. Features  3. Technologies
  
- ## 1. Introduction
+ ## Introduction
  This is an **SPA** (Single Page Application) with a control pannel providing all information of CSE Department.
 
 
-## 2. Features
+## Features
 
 -  Notice, News and Event information 
 -  Faculty Informations
@@ -19,6 +19,6 @@
 - Contact information
 - Control Pannel
 
-## 3. Technologies
+## Technologies
 
 HTML, CSS, Bootstrap4, Javascript, PHP, Ajax
